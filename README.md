@@ -1,7 +1,7 @@
 ## Hi there, I'm Robert 👋
 (Most people call me Robbie)
 
-I'm a 4th year MEng Computing Science student at the University of Stratchclyde and software engineer, living in Glasgow. My current favorite technologies/languages are TypeScript, Python, React, FastAPI and SQLAlchemy.
+I'm a software engineer and 4th year MEng Computing Science student at the University of Stratchclyde, living in Glasgow. My current favorite technologies/languages are TypeScript, Python, React, FastAPI and SQLAlchemy.
 ### Current Work
 Developing @ [loopsio](https://loopsio.com/) alongside fellow students from across Scotland - at present I am working on an innovative new trade portal, including frequent requirements gathering sessions with clients.
 
