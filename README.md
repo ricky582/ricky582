@@ -14,6 +14,7 @@ In my free time, you'll often find me working on one of my personal projects:
 
 ### Past Projects
 - [better better](https://github.com/strathclyde-durhack-2022/mono) (DurHack 2022) - A gamified way of displaying cryptocurrency market volatility, created with React TSX and a MongoDB scoreboard.
+- [Simple Shell](https://github.com/ricky582/simple_shell) - Custom shell written in C, based on Ubuntu commands.
 
 ### You can reach me via:
 - My email - [robbiesim3@gmail.com](mailto:robbiesim3@gmail.com)
