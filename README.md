@@ -10,7 +10,7 @@ Also freelancing to design a new website for [Anniesland Christmas Trees](https:
 ### Current Projects
 In my free time, you'll often find me working on one of my personal projects:
 - [Personal Website](https://github.com/ricky582/personal_website) (domain name TBD) - Portfolio site (Svelte and TypeScript).
-- [Anniesland Christmas Trees](https://github.com/ricky582/annieslandchristmastrees.com) - Website for Annies Land Christmas Trees (React and TypeScript).
+- [Anniesland Christmas Trees](https://github.com/ricky582/annieslandchristmastrees.com) - Website for Anniesland Christmas Trees (React and TypeScript).
 - [Sudoku Project](https://github.com/ricky582/sudoku_project) - A simple Python sudoku game with Flask.
 
 ### Past Projects
