@@ -5,11 +5,12 @@ Software Engineer & 4th year student at The University of Strathclyde, living in
 ### Current Work
 Developing @ [loopsio](https://loopsio.com/) alongside fellow students from across Scotland - at present I am working on an innovative new trade portal, including frequent requirements gathering sessions with clients.
 
-Also freelancing to design a new website for [Anniesland Christmas Trees](https://www.annieslandchristmastrees.com/), a local business that grows and sells christmas trees in my area each December.
+Also freelancing to design a new website for [Anniesland Christmas Trees](https://www.annieslandchristmastrees.com/), a local business that grows and sells christmas trees in my area each December. The code is open source and can be found below.
 
 ### Current Projects
 In my free time, you'll often find me working on one of my personal projects:
 - [Personal Website](https://github.com/ricky582/personal_website) (domain name TBD) - Portfolio site (Svelte and TypeScript).
+- [Anniesland Christmas Trees](https://github.com/ricky582/annieslandchristmastrees.com) - Website for Annies Land Christmas Trees (React and TypeScript).
 - [Sudoku Project](https://github.com/ricky582/sudoku_project) - A simple Python sudoku game with Flask.
 
 ### Past Projects
