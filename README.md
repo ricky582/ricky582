@@ -8,9 +8,10 @@ Developing @ [loopsio](https://loopsio.com/) alongside fellow students from acro
 Also freelancing to design a new website for [Anniesland Christmas Trees](https://www.annieslandchristmastrees.com/), a local business that grows and sells christmas trees in my area each December. The code is open source and can be found below.
 
 ### Current Projects
-In my free time, you'll often find me working on one of my personal projects:
+In my free time, you'll often find me working on one of the following:
+- Sugarscape - 4th year project (private repo until marked), learn more about sugarscapes [here](https://www.google.co.uk/books/edition/Growing_Artificial_Societies/xXvelSs2caQC?hl=en&gbpv=1&pg=PR3&printsec=frontcover)
 - [Personal Website](https://github.com/ricky582/personal_website) (domain name TBD) - Portfolio site (Svelte and TypeScript).
-- [Anniesland Christmas Trees](https://github.com/ricky582/annieslandchristmastrees.com) - Website for Anniesland Christmas Trees (React and TypeScript).
+- [Anniesland Christmas Trees](https://github.com/ricky582/annieslandchristmastrees.com) - Website for Anniesland Christmas Trees (Next.js and TypeScript).
 - [Sudoku Project](https://github.com/ricky582/sudoku_project) - A simple Python sudoku game with Flask.
 
 ### Past Projects
