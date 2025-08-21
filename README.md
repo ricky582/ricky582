@@ -1,19 +1,12 @@
 ## Hi there, I'm Robert 👋
 (Most people call me Robbie)
 
-Software Engineer & 4th year student at The University of Strathclyde, living in Glasgow. My current favorite technologies/languages are TypeScript, Python, React, FastAPI and SQLAlchemy.
+Recent Computer Science MEng graduate from The University of Strathclyde, living in Glasgow. My current favorite technologies/languages are TypeScript, Python, React, FastAPI and SQLAlchemy.
+
 ### Current Work
-Developing @ [loopsio](https://loopsio.com/) alongside fellow students from across Scotland.
+Recently started a position as a Technology Developer Graduate at [Barclays](https://www.barclays.co.uk).
 
-### Current Projects
-In my free time, you'll often find me working on one of the following:
-- Sugarscape - 4th year project (private repo until marked), learn more about sugarscapes [here](https://www.google.co.uk/books/edition/Growing_Artificial_Societies/xXvelSs2caQC?hl=en&gbpv=1&pg=PR3&printsec=frontcover)
-- [Personal Website](https://github.com/ricky582/personal_website) (domain name TBD) - Portfolio site (Svelte and TypeScript).
-- [Sudoku Project](https://github.com/ricky582/sudoku_project) - A simple Python sudoku game with Flask.
-
-### Past Projects
-- [better better](https://github.com/strathclyde-durhack-2022/mono) (DurHack 2022) - A gamified way of displaying cryptocurrency market volatility, created with React TSX and a MongoDB scoreboard.
-- [Simple Shell](https://github.com/ricky582/simple_shell) - Custom shell written in C, based on Ubuntu commands.
+Additionally, I'm researching some personal projects to get started on in my free time.
 
 ### You can reach me via:
 - My email - [robbiesim3@gmail.com](mailto:robbiesim3@gmail.com)
